@@ -67,7 +67,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=Python, SQL ,Data Cleaning, Visualization, Dashboard Development," />
+ <img src="https://skillicons.dev/icons?i=Python, SQL ,Data Cleaning, Visualization, Dashboard Development" />
 <br/><br/>
 
 </td>
