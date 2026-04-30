@@ -103,13 +103,11 @@
 
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Melvin-Godad&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=MelvinGodad&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
----
 
 
 
