@@ -61,40 +61,53 @@
 
 
 ## 🛠️ Skills
-<p align="center">
-<table>
+<div align="center">
+<table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=Python, SQL ,Data Cleaning, Visualization, Dashboard Development" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python" />
 <br/><br/>
-
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Cleaning-FF9900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Visualization-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dashboard_Development-0052CC?style=for-the-badge" />
+<br/><br/>
 </td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=Pandas, NumPy, Matplotlib, Seaborn,Research, Communication, Organization, Deadline Management" />
+<td width="50%" align="center" valign="top">
+<h3>📚 Frameworks & Libraries</h3>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=python&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Research-6B5B95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Communication-88B04B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Organization-FFA500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deadline_Management-D65076?style=for-the-badge" />
+<br/><br/>
 </td>
-
-
-
 </tr>
 <tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=Power BI, Excel (Advanced), Google Sheets" />
+<td width="50%" align="center" valign="top">
+<h3>🗄️ Databases</h3>
+<br/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel_(Advanced)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 <br/><br/>
-
 </td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+<td width="50%" align="center" valign="top">
+<h3>🧰 Tools & Platforms</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
+<br/><br/>
 </td>
 </tr>
 </table>
-</p>
+</div>
 
 
 
