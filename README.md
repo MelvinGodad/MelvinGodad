@@ -23,10 +23,6 @@
 
 <h3>🌐 Socials</h3>
   
-<p align="left">
-  <a href="https://dev.to/MelvinGodad">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
 
   
 
@@ -36,7 +32,7 @@
 
  
 
-  <a href="www.linkedin.com/in/MelvinGodad">
+  <a href="www.linkedin.com/in/melvingodad">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
